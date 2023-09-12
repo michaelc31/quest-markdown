@@ -58,8 +58,7 @@ notion en développement (delphi - c++)
 **PARCOURS PROFESSIONNEL**	
 
 **2010 -2023:** Operateur logistique pour **Logista France (tabac)** ***preparateur de commande, depoteur, magasinier cariste, inventoriste, moniteur remplacent (gestion d'équipes, formations) , maintenance tablette informatique (logiciel prépa)
-
-notion sur SAP, gestion de stock, réception expédition .***
+notion sur SAP, gestion de stock, réception expédition***
 
 **2006 jusqu'en 2010** Intérimaire pour **Vediorbis et Addecco**: _divers travaux effectués comme ripeur, préparateur de commande produit congelé, dépoteur et rouleur pour la Seita (mise en place de produit sur chaîne automatique), tri postaux etc ..._
 
