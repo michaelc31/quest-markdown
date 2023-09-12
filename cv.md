@@ -84,5 +84,6 @@ notion sur SAP, gestion de stock, réception expédition .***
 **2002:** Brevet des Collèges a Voltaire à Colomiers
 
 **CENTRES D’INTÉRÊTS**
-Pratique de sport, activités culturelles & sportives, lecture, cinéma, musique, 3d
-gestion d'un club modélisme discipline [drift](https://youtu.be/ygZifMxCoAY)
+
+Pratique de sport, activités culturelles & sportives, lecture, cinéma, musique, 3d (modelisation, impression, [peinture](https://photos.google.com/album/AF1QipMBQQmpXK2I8sovxxnCIe4t-tUe9lW1IyPAEr-7))
+modélisme discipline [drift](https://youtu.be/ygZifMxCoAY)
