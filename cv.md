@@ -1,4 +1,4 @@
-![photo profil](https://github.com/michaelc31/quest-cv/blob/main/photo%20cv.jpg?raw=true) 
+![photo profil]() 
 
 **CRESPO** Michael 
 
